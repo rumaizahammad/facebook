@@ -1,0 +1,14 @@
+String rumaiz = "assets/imag/17C8E62C-9E52-4984-8399-2D2A574FF474_1_105_c.jpeg";
+String sinan = "assets/imag/8AD63458-6543-4892-98DF-6EC4DB5C0424.jpeg";
+String junaid = "assets/imag/F24DA22D-3927-49FB-9C21-FA9834F76211_1_105_c.jpeg";
+String sinu = "assets/imag/9A643C9C-DE88-4518-AB6A-BBEB4ADFEABD_1_105_c.jpeg";
+String me = "assets/imag/47DCD68B-8C40-4E3E-B02E-BCEEF4AE8A54_1_105_c.jpeg";
+String chemmi = "assets/imag/D845BE83-11C8-477D-BDA1-55171DB2CA4A_1_105_c.jpeg";
+String remi = "assets/imag/B0AA80CC-A985-426C-B6AD-81152580DE70 2.jpeg";
+String facebook = "assets/imag/facebook.jpeg";
+String active = "assets/imag/active.png";
+String archive = "assets/imag/archive.jpeg";
+String message = "assets/imag/messagerequst.jpeg";
+String privacy = "assets/imag/privacy.jpeg";
+String shahid = "assets/imag/WhatsApp Image 2023-10-26 at 2.21.18 PM (2).jpeg";
+String facebook2 = "assets/imag/facebook 1.png";
